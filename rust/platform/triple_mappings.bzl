@@ -22,6 +22,7 @@ SUPPORTED_T1_PLATFORM_TRIPLES = [
 SUPPORTED_T2_PLATFORM_TRIPLES = [
     "aarch64-apple-darwin",
     "aarch64-apple-ios",
+    "aarch64-apple-ios-sim",
     "aarch64-linux-android",
     "aarch64-unknown-linux-gnu",
     "arm-unknown-linux-gnueabi",
